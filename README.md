@@ -2,6 +2,10 @@
 
 a Google hangouts REST API server that lets you pass parameters into the URL and it initiates a Hangouts session
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/joshterrill/hangouts-call-api-server)
+
+Example server: [https://hangouts-call-api-server.herokuapp.com/](https://hangouts-call-api-server.herokuapp.com/)
+
 ## usage
 
 Initiate Google Hangouts phone call
