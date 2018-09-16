@@ -4,7 +4,7 @@
   "description": "a google hangouts REST API server that lets you pass parameters into the URL and it initiates a hangouts session",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",

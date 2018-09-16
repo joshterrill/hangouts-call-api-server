@@ -2,7 +2,7 @@ const express = require('express');
 const version = require('./package.json').version;
 const app = express();
 
-const port = process.env.PORT || 8000;
+const port = process.env.PORT || 3000;
 
 app.get('/', (req, res) => {
   res.send(`API Version: ${version}.<br /><a href="https://github.com/joshterrill/hangouts-call-api-server#readme">View README</a>`);
