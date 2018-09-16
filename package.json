@@ -1,0 +1,34 @@
+{
+  "name": "hangouts-call-api-server",
+  "version": "1.0.0",
+  "description": "a google hangouts REST API server that lets you pass parameters into the URL and it initiates a hangouts session",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshterrill/hangouts-api-server.git"
+  },
+  "keywords": [
+    "google",
+    "hangouts",
+    "google",
+    "voice",
+    "google",
+    "hangouts",
+    "google",
+    "api",
+    "hangouts",
+    "api"
+  ],
+  "author": "Josh Terrill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshterrill/hangouts-call-api-server/issues"
+  },
+  "homepage": "https://github.com/joshterrill/hangouts-call-api-server#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
